@@ -45,13 +45,13 @@
 
     this._options = {
       /* Next button label in tooltip box */
-      nextLabel: 'Next &rarr;',
+      nextLabel: '下一项 &rarr;',
       /* Previous button label in tooltip box */
-      prevLabel: '&larr; Back',
+      prevLabel: '&larr; 上一项',
       /* Skip button label in tooltip box */
-      skipLabel: 'Skip',
+      skipLabel: '跳过',
       /* Done button label in tooltip box */
-      doneLabel: 'Done',
+      doneLabel: '完成',
       /* Hide previous button in the first step? Otherwise, it will be disabled button. */
       hidePrev: false,
       /* Hide next button in the last step? Otherwise, it will be disabled button. */
